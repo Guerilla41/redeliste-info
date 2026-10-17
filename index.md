@@ -7,7 +7,7 @@ title: "Redeliste: Datenschutz und Kontakt"
 Stand: 18. Oktober 2026
 
 ## 1. Verantwortlicher
-Enis Eren Zeyrek
+Enis Zeyrek
 E-Mail: post@enis-zeyrek.de
 
 ## 2. Kurzfassung
