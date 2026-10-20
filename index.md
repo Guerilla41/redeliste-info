@@ -30,17 +30,20 @@ Wenn du es erlaubst, plant die App außerdem eine Mitteilung für das Ende der R
 ## 5. Alarm bei Ablauf der Redezeit
 Damit das Ende der Redezeit auch bei gesperrtem iPhone zu hören ist, plant die App mit deiner Erlaubnis einen Alarm über die Weckerfunktion von iOS. Der Alarm wird ausschließlich lokal auf deinem Gerät geplant und enthält keine Namen. Die App greift weder auf das Mikrofon zu noch nimmt sie etwas auf.
 
-## 6. Backups
+## 6. Sets teilen
+Du kannst ein Set an ein anderes Gerät weitergeben: als Datei (zum Beispiel per AirDrop, Messenger oder Mail), als QR-Code oder als Text. Dabei werden nur der Name des Sets sowie die Namen und Kategorien der Personen übertragen, und nur an das Ziel, das du selbst auswählst. Der Anbieter erhält davon nichts. Für die Übertragung gelten die Datenschutzbestimmungen des gewählten Dienstes.
+
+## 7. Backups
 Wenn du auf deinem Gerät iCloud-Backups oder Backups über einen Computer aktiviert hast, können die lokal gespeicherten Daten der App darin enthalten sein. Diese Backups verwaltet Apple beziehungsweise du selbst; der Anbieter hat darauf keinen Zugriff.
 
-## 7. App Store
+## 8. App Store
 Für Download und Aktualisierung der App gilt die Datenschutzerklärung von Apple. Apple stellt dem Anbieter gegebenenfalls anonymisierte Statistiken (zum Beispiel Anzahl der Downloads oder Absturzberichte, sofern du der Weitergabe zugestimmt hast) zur Verfügung. Diese enthalten keine Inhalte aus der App.
 
-## 8. Löschung
+## 9. Löschung
 Du kannst Sets und Personen jederzeit in der App löschen. Mit dem Löschen der App werden alle ihre Daten vom Gerät entfernt.
 
-## 9. Deine Rechte
+## 10. Deine Rechte
 Da der Anbieter keine personenbezogenen Daten von dir erhält, kann er dazu keine Auskunft geben oder Daten löschen. Bei Fragen zum Datenschutz erreichst du den Anbieter unter der oben genannten Adresse. Du hast das Recht, dich bei einer Datenschutzaufsichtsbehörde zu beschweren.
 
-## 10. Kontakt und Support
+## 11. Kontakt und Support
 Fragen, Fehler und Wünsche zur App: post@enis-zeyrek.de
